@@ -1,0 +1,1 @@
+# eslint-fivebyfive-integration-rules
